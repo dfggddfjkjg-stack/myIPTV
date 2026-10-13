@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -17,3 +18,8 @@ jobs:
           git add my.m3u
           git diff --cached --quiet || git commit -m "Update playlist"
           git push
+      - name: Keep workflow active
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow enable update.yml || true

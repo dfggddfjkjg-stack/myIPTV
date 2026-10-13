@@ -2,8 +2,7 @@ import urllib.request
 import sys
 
 SOURCES = [
-    ("https://iptv-org.github.io/iptv/languages/spa.m3u", ["CNN", "Telemundo"]),
-    ("https://iptv-org.github.io/iptv/categories/news.m3u", None),
+    ("https://iptv-org.github.io/iptv/languages/kat.m3u", None),
     ("https://iptv-org.github.io/iptv/countries/us.m3u", ["ESPN", "HBO"]),
 ]
 

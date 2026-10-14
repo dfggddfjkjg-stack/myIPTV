@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Rustavi 2
+https://streaming-hls1.televizia.org/hls/rustavi2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Rustavi 2 HD
+https://streaming-hls3.televizia.org/hls/rustavi2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Imedi
+https://streaming-hls1.televizia.org/hls/imedi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Imedi HQ
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.ts.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Pirveli Arxi HQ
+https://streaming-hls4.televizia.org/hls/pirveliarxi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Pirveli Arxi HD
+https://ams01.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.ts.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.ts.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", GDS HD Quality
+https://streaming-hls1.televizia.org/hls/gds.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Silk Universal HD
+https://streaming-hls2.televizia.org/hls/silk.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", TV Pirveli
+https://streaming-hls2.televizia.org/hls/tvpirveli.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", EuroNews Georgia
+https://streaming-hls1.televizia.org/hls/euronewsgeorgia.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", New Comedy Channel HQ
+https://streaming-hls1.televizia.org/hls/comedy.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Rioni
+https://streaming-hls3.televizia.org/hls/rioni.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Marao
+https://streaming-hls4.televizia.org/hls/marao.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Adjara
+https://streaming-hls2.televizia.org/hls/adjara.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Palitra TV
+https://live.palitranews.ge/hls/palitratv/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://palitranews.ge/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Kavkasia TV
+https://streaming-hls1.televizia.org/hls/kavkasia.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Ragbi TV
+https://streaming-hls1.televizia.org/hls/ragbi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", POS TV
+https://streaming-hls3.televizia.org/hls/postv.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://www.televizia.org/
+
+#EXTINF:-1 group-title="Georgia" aspect-ratio="16:9", Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://sstv.ge/

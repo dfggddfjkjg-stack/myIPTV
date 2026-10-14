@@ -41,6 +41,24 @@ def load_keywords(keep):
     return words
 
 
+def load_blacklist():
+    names = []
+    urls = set()
+    try:
+        with open("blacklist.txt", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if line.lower().startswith("http"):
+                    urls.add(line)
+                else:
+                    names.append(clean(line))
+    except FileNotFoundError:
+        print("No blacklist.txt found, skipping")
+    return names, urls
+
+
 def parse(text):
     entries = []
     meta = []
@@ -87,6 +105,15 @@ def wanted(meta, keywords):
     return any(fnmatch.fnmatchcase(name, k) for k in keywords)
 
 
+def blocked(meta, stream, bad_names, bad_urls):
+    if stream in bad_urls:
+        return True
+    name = name_of(meta)
+    return any(fnmatch.fnmatchcase(name, b) for b in bad_names)
+
+
+bad_names, bad_urls = load_blacklist()
+
 out = ["#EXTM3U"]
 seen = set()
 
@@ -111,6 +138,8 @@ for url, keep, order in SOURCES:
     kept = []
     for meta, stream in entries:
         if stream in seen:
+            continue
+        if blocked(meta, stream, bad_names, bad_urls):
             continue
         if not wanted(meta, keywords):
             continue

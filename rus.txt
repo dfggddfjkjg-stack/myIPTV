@@ -1,6 +1,5 @@
 1HD Music Television
 2x2
-3ABN Russia
 15+ Music
 24KZ
 86
@@ -24,7 +23,6 @@ Almaty TV
 alpha Cinema
 Amedia Hit
 Amedia Premium
-Angel TV Russian
 Ani
 Animal Planet (Russia)
 Apsua TV
@@ -154,9 +152,7 @@ Gulli Girl
 Hit HD
 Hit FM
 Hollywood
-Hope Channel Russia
 Horoshee Kino
-Huzur TV
 Illusion+
 India
 Indiyskoye Kino
@@ -205,7 +201,6 @@ KVN TV
 Lapki Live
 Law TV
 Leomax 24
-Life TV (Estonia)
 Live Music Channel HD
 Love Nature
 Love Nature HD
@@ -214,7 +209,6 @@ Magnat
 Maidan
 Makon TV
 Mama
-Mana Tserkov' Onlayn
 Mangystay
 Mir Seriala
 Mirovoe kino
@@ -383,7 +377,6 @@ SuperGeroi
 Svoboda
 T24
 Taraqqiyot TV
-TBN Baltia
 TDK 42
 Teatr
 Telecafe (Russia)
@@ -423,7 +416,6 @@ TV15
 TV 21
 TV 21 International
 TV1000 Russian Kino Global
-TV Mana Russkiy
 TV PRO
 TV Rain
 TV-3
@@ -452,7 +444,6 @@ Velvet. Series Hits
 Velvet. Sovetskoe Kino
 Velvet. Svaty
 Velvet. World Series
-Vera 24
 Vetta 24
 Viasat Epic Drama Ukraine
 Viasat Kino

@@ -3,11 +3,12 @@ import fnmatch
 import re
 import sys
 
-# Each entry: (playlist URL, keywords)
-# keywords can be: None (keep all), a "file.txt" name, or a list of names
+# Each entry: (playlist URL, keywords, group order)
+# keywords: None (keep all), a "file.txt" name, or a list of names
+# group order: None (keep file order) or a list like ["Movies", "News"]
 SOURCES = [
     ("https://iptv-org.github.io/iptv/languages/kat.m3u", None),
-    ("https://iptv-org.github.io/iptv/languages/rus.m3u", "rus.txt"),
+    ("https://iptv-org.github.io/iptv/languages/rus.m3u", "rus.txt", ["Movies", "News"]),
 ]
 
 
@@ -62,6 +63,23 @@ def name_of(meta):
     return ""
 
 
+def group_of(meta):
+    for m in meta:
+        if m.startswith("#EXTINF"):
+            found = re.search(r'group-title="([^"]*)"', m)
+            if found:
+                return found.group(1)
+    return ""
+
+
+def rank(meta, order):
+    parts = [p.strip().lower() for p in group_of(meta).split(";")]
+    for i, g in enumerate(order):
+        if g.lower() in parts:
+            return i
+    return len(order)
+
+
 def wanted(meta, keywords):
     if keywords is None:
         return True
@@ -83,19 +101,24 @@ except FileNotFoundError:
     print("No extra.m3u found, skipping")
 
 # 2. Then the iptv-org sources
-for url, keep in SOURCES:
+for url, keep, order in SOURCES:
     keywords = load_keywords(keep)
     try:
         entries = parse(fetch(url))
     except Exception as e:
         print("Skipped", url, e)
         continue
+    kept = []
     for meta, stream in entries:
         if stream in seen:
             continue
         if not wanted(meta, keywords):
             continue
         seen.add(stream)
+        kept.append((meta, stream))
+    if order:
+        kept.sort(key=lambda item: rank(item[0], order))
+    for meta, stream in kept:
         out.extend(meta)
         out.append(stream)
 

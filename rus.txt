@@ -1,7 +1,6 @@
 1HD Music Television
 2x2
 3ABN Russia
-5 minut tishiny
 15+ Music
 24KZ
 86
@@ -45,11 +44,6 @@ Baby Time
 BabyFirst
 Balabol
 Balti TV
-Belarus-2 HD
-Belarus-3 HD
-Belarus-5
-Belarus-5 HD
-Belarus-5 Internet
 Big Asia
 Big Planet
 Bilim Ilim
@@ -67,9 +61,6 @@ BRIDGE Deluxe HD
 BRIDGE Hits
 BRIDGE Rock
 Bug-TV
-Carousel
-Carousel +4
-Carousel International
 Channel 7 (Kazakhstan)
 Channel 8 (Russia)
 Channel 8 International
@@ -225,20 +216,12 @@ Makon TV
 Mama
 Mana Tserkov' Onlayn
 Mangystay
-Match! Arena
-Match! Boets
-Match! Igra
-Match! Planeta
-Match! Premier
-Match! Strana
-Match! Ultra
 Mir Seriala
 Mirovoe kino
 MMA-TV.com
 Moldova 1
 Moldova 2
 Mosfilm Gold Collection
-Moskva. Doveriye
 Movify Kino
 Moy mir
 Moya Planeta
@@ -273,7 +256,6 @@ Nashe Novoe Kino
 National Geographic (Russia)
 National Geographic Wild (Russia)
 National Geographic Wild (Russia) HD
-Nauka (Russia)
 Nauka (Ukraine)
 Naxcivan TV
 Nevskiy
@@ -292,10 +274,6 @@ NTK 21
 NTK
 NTM
 NTS
-NTV Law
-NTV Series
-NTV Style
-NTV-Hit
 NVK Sakha
 o2tv
 O!
@@ -309,7 +287,6 @@ Okhota i rybalka
 Okko Futbol
 Okko Prajm Sport
 Okko Sport
-Oruzhie
 Osh Pirim
 Ost West 24
 Ost West
@@ -328,7 +305,6 @@ Prima (Russia)
 Pro100TV
 Pro Business
 Pro Lyubov
-Prodvizhenie
 Prosveshchenie
 Qazaqstan International
 Qonaev Media
@@ -350,11 +326,6 @@ RTVi US
 RU.TV
 RU.TV Kids
 Rus
-Russia-K
-Russia-K +2
-Russia-K +4
-Russia-K +7
-Russia-K HD
 Russian Extreme
 Russian Extreme Ultra
 Russian MusicBox
@@ -365,7 +336,6 @@ Russkiy roman
 Rybalka i okhota
 Rybolov
 Ryzhiy
-RZD TV
 S1
 Salyam
 Saphire
@@ -384,18 +354,11 @@ Shayan TV
 Shchyolkovskoe TV
 Shef
 Shokiruyushchee HD
-Shopping Live
 Shot TV
 Silk Way
 Silk Way Cinema
 Simon
 Skoraya pomoshch
-Smotrim 100% Detskoe
-Smotrim 100% Klassika
-Smotrim 100% Lyubov
-Smotrim 100% Muzhskoe
-Smotrim 100% Prazdnik
-Smotrim Chestnyy Detektiv
 Solnce
 SONGTV Russia
 Sport 1 Baltic
@@ -514,11 +477,9 @@ viju+ Sport
 viju+ Sport HD
 Vital Drive
 Vitebsk
-Vitrina TV
 Vkus
 Volga
 Voprosy i Otvety
-Vremya
 Yuvelirochka
 Zagorodnaya Zhizn
 Zdorovoe TV

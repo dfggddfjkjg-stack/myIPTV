@@ -8,7 +8,7 @@ import sys
 # group order: None (keep file order) or a list like ["Movies", "News"]
 SOURCES = [
     ("https://iptv-org.github.io/iptv/languages/kat.m3u", None, None),
-    ("https://iptv-org.github.io/iptv/languages/rus.m3u", "rus.txt", ["Outdoor", "Documentary", "Comedy", "Movies"]),
+    ("https://iptv-org.github.io/iptv/languages/rus.m3u", "rus.txt", None, None),
 ]
 
 

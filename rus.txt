@@ -32,8 +32,6 @@ Armenia TV Satellite
 Arsenal
 ART (Russia)
 ARTN TV
-Astrahan.Ru Sport
-Astrahan.Ru TV
 Atameken Business
 ATR
 Auto Plus
@@ -66,7 +64,6 @@ Channel 8 Krasnoyarsk HD
 Channel 8 Novosibirsk
 Channel 9 (Israel)
 Channel 10 (Russia)
-Channel 12
 Channel-16
 Che!
 Cinema (Russia)
@@ -195,7 +192,6 @@ KTK HD
 Kto est kto
 Kuhnya
 Kulinar TV
-Kuraj-TV
 Kvartal TV
 KVN TV
 Lapki Live
@@ -283,7 +279,6 @@ Osh Pirim
 Ost West 24
 Ost West
 Ostrosyuzhetnoye HD
-Otkritiy mir. Zdorove
 OTV (Estonia)
 Peretz International
 Perviy otdel
@@ -329,7 +324,6 @@ Rybalka i okhota
 Rybolov
 Ryzhiy
 S1
-Salyam
 Saphire
 Sarafan
 Setanta Sports 1
@@ -341,7 +335,6 @@ Setanta Sports+ Ukraine
 Seven
 Sever
 Sevimli TV
-Shanson TV
 Shayan TV
 Shchyolkovskoe TV
 Shef
@@ -380,7 +373,6 @@ Teatr
 Telecafe (Russia)
 TeleDom
 Teleputeshestviya
-Telplus
 TERRA
 Terra
 TiJi
@@ -393,8 +385,6 @@ TNT (Russia) HD
 TNT International
 TNT International Belarus
 TNT International SD
-TNV-Planet
-TNV-Tatarstan
 Tochka otryva
 Tochka TV
 Tonus

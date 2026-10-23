@@ -64,8 +64,6 @@ https://cityeden.catcast.tv/content/38354/index.m3u8
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="Documentary",Nano HD (1080p)
 http://185.23.80.23:8080/NANO_HD/index.m3u8
-#EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" group-title="Documentary;News",TV8 (Moldova) [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Documentary",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Documentary",viju History (576p)
@@ -356,7 +354,7 @@ https://cityeden.catcast.tv/content/34246/index.m3u8
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="News",Current Time TV (1080p)
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci (Russia) (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci (576p)
 http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="Dacha.ua@SD" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="Undefined",Dacha (1080p)
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
@@ -674,8 +672,6 @@ http://flussonic.linkintel.ru/tnt4/index.m3u8
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",TNT (Russia) (576p)
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 tvg-id="TNTInternational.ru@Belarus" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",TNT International Belarus (1080p)
-http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" tvg-logo="https://i.imgur.com/TZiBQDK.png" group-title="Undefined",Tochka otryva (576p)
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru@SD" tvg-logo="https://i.imgur.com/pGm8QCj.png" group-title="Undefined",Tonus (576p)
